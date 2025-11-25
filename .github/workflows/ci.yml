@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # ✅ Descargar el código del repositorio
+    #  Descargar el código del repositorio
     - name: "Checkout repository"
       uses: actions/checkout@v3
 
